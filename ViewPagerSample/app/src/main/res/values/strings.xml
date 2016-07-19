@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <!--主页menu-->
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="interest">interest</string>
+    <string name="person">person</string>
+
+
+
+
+</resources>
